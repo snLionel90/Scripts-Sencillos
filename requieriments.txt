@@ -1,0 +1,4 @@
+tabulate = 0.8.7
+instaloader = 4.5.1
+psutil = 5.7.2
+speedtest-cli = 2.1.2
